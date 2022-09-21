@@ -57,7 +57,7 @@ int main() {
 		}
 		file << "\n";
 	}
-
+	
 
 	//Closing file
 	file.close();
